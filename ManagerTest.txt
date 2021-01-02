@@ -2,4 +2,8 @@
 程序员做了修改👇：
 你好，我是团队中的程序员
 hello ["程序员做的第二次修改"]
+<<<<<<< HEAD
 Manager edit text
+=======
+programmer edit txt
+>>>>>>> ba550755f5e3e3aebea7285461b789c858782149
