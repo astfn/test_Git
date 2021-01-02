@@ -7,3 +7,8 @@ Manager edit text
 =======
 programmer edit txt
 >>>>>>> ba550755f5e3e3aebea7285461b789c858782149
+
+队外程序员【AshunTFN】
+我是队外程序员，先在GitHub原项目上进行fork（分叉）
+然后得到一个一模一样的版本库，自己进行clone、增删改、push
+最后在GitHub上pull Request（拉去请求），你们的项目经理同意后，即可成功提交合并。
